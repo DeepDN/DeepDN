@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/DeepDN/DeepDN/blob/main/Gitbanner.gif)
 
 
 <h1 align="center">Hi 👋, I'm Deepak Nemade</h1>
