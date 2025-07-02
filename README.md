@@ -64,7 +64,7 @@
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 <br><strong>🔭 Current Project</strong>
-<br><a href="https://www.credebl.id/">CREDEBL Platform</a>
+<br><a href="https://github.com/DeepDN/it-asset-manager.git">it-asset-manager</a>
 <br><em>Building scalable cloud infrastructure</em>
 </td>
 <td align="center" width="33%">
@@ -205,7 +205,7 @@
 <h3 align="center">💼 Portfolio Website</h3>
 <div align="center">
 <a href="https://portfolio-website-kappa-three-16.vercel.app">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepDN&repo=portfolio-website&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true&icon_color=00D4FF&show_owner=true"/>
+<img src="https://portfolio-website-kappa-three-16.vercel.app/?username=DeepDN&repo=portfolio-website-&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true&icon_color=00D4FF&show_owner=true"/>
 </a>
 </div>
 </td>
