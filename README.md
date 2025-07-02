@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deepak nemade (dn)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepak nemade (dn)" height="30" width="40" /></a>
-<a href="https://deepak-portfolio-three.vercel.app/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/512px-Vercel_logo_black.svg.png?20221002000905" alt="deepak_nemade_dn" height="30" width="40" /></a>
+<a href="https://portfolio-website-kappa-three-16.vercel.app/#about" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Vercel_logo_black.svg/512px-Vercel_logo_black.svg.png?20221002000905" alt="deepak_nemade_dn" height="30" width="40" /></a>
 <a href="https://hashnode.com/@deepakdn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@deepakdn" height="30" width="40" /></a>
 </p>
 
