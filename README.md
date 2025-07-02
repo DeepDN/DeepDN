@@ -1,4 +1,4 @@
-
+ ```markdown
 +      4: <!-- Animated Header Banner -->
 +      5: <div align="center">
 +      6:   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234567,100:36BCF7FF&height=300&section=header&text=Deepak%20Nemade&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Network%20%26%20System%20Administrator%20%7C%20AWS%20Cloud%20%26%20DevOps%20Engineer&descAlignY=51&descSize=20"/>
@@ -262,4 +262,4 @@
 +    264: <div align="center">
 +    265:   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,10:a82da8,30:903749,75:234567,100:36BCF7FF&height=200&section=footer&animation=fadeIn"/>
 +    266: </div>
-+    267: 
++    267: ```
