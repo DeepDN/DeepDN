@@ -1,286 +1,272 @@
 <div align="center">
 
-# Hi 👋, I'm **Deepak Nemade (DN)**
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Deepak%20Nemade%20(DN)&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&width=800&height=100&lines=🚀+AWS+Cloud+%26+DevOps+Engineer;🌐+Network+Architecture+Expert;⚡+CI%2FCD+Pipeline+Specialist;🔧+Infrastructure+Automation+Guru;💡+Problem+Solving+Enthusiast;🎯+Always+Learning+%26+Growing!" alt="Typing SVG" />
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Profile Views with Animation -->
+<img src="https://komarev.com/ghpvc/?username=DeepDN&label=Profile%20Views&color=brightgreen&style=for-the-badge&logo=eye" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/DeepDN?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+
+</div>
+
+<!-- About Me Section with Enhanced Styling -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=AWS+Cloud+Engineer;DevOps+Specialist;Network+Infrastructure+Expert;Passionate+Problem+Solver;Always+Learning+%26+Growing!" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Professional Animation"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepdn&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DeepDN?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/DeepDN?label=Total%20Stars&style=for-the-badge&color=0e75b6" alt="GitHub Stars" />
-</div>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **About Me** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
 
 </div>
 
----
+<img align="right" alt="Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-## 🚀 **About Me**
-
-<img align="right" alt="Coding Animation" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-🔭 **Currently Working On:** [IT Asset Manager](https://github.com/DeepDN/it-asset-manager.git)  
-👨‍💻 **Portfolio:** [View My Work](https://portfolio-website-kappa-three-16.vercel.app/)  
-💬 **Ask Me About:** AWS, DevOps, CI/CD Pipeline and Networking  
-📫 **Reach Me:** nemadedeepak1111@gmail.com  
-📄 **My Resume:** [Download PDF](https://portfolio-website-kappa-three-16.vercel.app/resume/Deepak_Nemade_Resume.pdf)  
-⚡ **Fun Fact:** I Think I am Funny 😄  
+```yaml
+👨‍💻 Developer Info:
+  name: "Deepak Nemade"
+  nickname: "DN"
+  location: "India 🇮🇳"
+  current_role: "AWS Cloud & DevOps Engineer"
+  company: "CREDEBL"
+  experience: "5+ years"
+  
+🎯 Expertise:
+  cloud_platforms: ["AWS", "GCP", "Azure"]
+  devops_tools: ["Docker", "Kubernetes", "Jenkins", "Terraform"]
+  networking: ["TCP/IP", "Load Balancers", "VPN", "Firewalls"]
+  monitoring: ["Grafana", "Prometheus", "CloudWatch"]
+  
+🌱 Currently Learning:
+  - "Advanced Kubernetes Orchestration"
+  - "Terraform Cloud Automation"
+  - "Service Mesh Architecture"
+  - "GitOps Workflows"
+  
+💡 Fun Facts:
+  - "I think I am funny 😄"
+  - "Coffee-driven developer ☕"
+  - "Open source contributor 🚀"
+  - "Tech blogger & mentor 📝"
+```
 
 <br clear="right"/>
 
----
-
-## 🏆 **GitHub Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepdn&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🔧 **Technical Arsenal**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"/>
-</div>
-
-### ☁️ **Cloud Platforms**
-
+<!-- Current Work Section -->
 <div align="center">
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-</div>
-
----
-
-### 🚀 **DevOps & Development Tools**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
-</div>
-
-<div align="center">
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-</div>
-
----
-
-### 📊 **Monitoring & Analytics**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"/>
-</div>
-
-<div align="center">
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
-</div>
-
----
-
-### 💻 **Programming & Databases**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"/>
-</div>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
----
-
-### 🎨 **Design & Creative Tools**
-
-<div align="center">
-
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
----
-
-### 💻 **Operating Systems**
-
-<div align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500"/>
-</div>
-
----
-
-## 📈 **GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deepdn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepdn&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepdn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepdn&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🌟 **Featured Project**
-
-<div align="center">
-
-### 🚀 **IT Asset Manager**
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"/>
-
-**Professional IT Asset Management System built with Python, Flask, and PostgreSQL**
-
-🔹 **Asset Tracking** - Comprehensive inventory management  
-🔹 **CRUD Operations** - Full create, read, update, delete functionality  
-🔹 **User Management** - Role-based access control  
-🔹 **Audit Logging** - Complete activity tracking  
-🔹 **API Integration** - RESTful API for external systems  
-
-<div align="center">
-  <a href="https://github.com/DeepDN/it-asset-manager" target="_blank">
-    <img src="https://img.shields.io/badge/🔗_Explore_Project-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repository"/>
-  </a>
-</div>
-
-</div>
-
----
-
-## 🌍 **Connect & Collaborate**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974d7.gif" width="100"/>
-</div>
-
-<div align="center">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **What I'm Working On** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <table>
 <tr>
-<td align="center">
-<a href="https://linkedin.com/in/deepak-nemade" target="_blank">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+<br><strong>🔭 Current Project</strong>
+<br><a href="https://www.credebl.id/">CREDEBL Platform</a>
+<br><em>Building scalable cloud infrastructure</em>
 </td>
-<td align="center">
-<a href="https://instagram.com/devops.with.deepak" target="_blank">
-<img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"/>
+<br><strong>📚 Learning</strong>
+<br>Advanced Kubernetes & Terraform
+<br><em>Mastering cloud-native technologies</em>
 </td>
-<td align="center">
-<a href="https://hashnode.com/@deepakdn" target="_blank">
-<img src="https://img.shields.io/badge/📝_Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
-</a>
-</td>
-<td align="center">
-<a href="https://www.youtube.com/c/devops.with.deepak" target="_blank">
-<img src="https://img.shields.io/badge/🎥_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="mailto:nemadedeepak1111@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</td>
-<td align="center">
-<a href="https://portfolio-website-kappa-three-16.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-</td>
-<td align="center">
-<a href="https://portfolio-website-kappa-three-16.vercel.app/resume/Deepak_Nemade_Resume.pdf" target="_blank">
-<img src="https://img.shields.io/badge/📄_Resume-FF5722?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume"/>
-</a>
-</td>
-<td align="center">
-<a href="https://github.com/DeepDN" target="_blank">
-<img src="https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="100"/>
+<br><strong>💬 Ask Me About</strong>
+<br>AWS, DevOps, CI/CD, Networking
+<br><em>Always happy to help!</em>
 </td>
 </tr>
 </table>
 
 </div>
 
----
-
-## 💡 **Random Dev Quote**
-
+<!-- Tech Stack with Animations -->
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35"> **Tech Arsenal** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="35">
+
+### ☁️ **Cloud Platforms**
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=FF9900"/>
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white&labelColor=0089D0"/>
+</p>
+
+### 🚀 **DevOps & Orchestration**
+<p>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=2CA5E0"/>
+<img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=326ce5"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white&labelColor=D24939"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white&labelColor=7B42BC"/>
+<img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white&labelColor=EE0000"/>
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=FC6D26"/>
+</p>
+
+### 💻 **Programming & Scripting**
+<p>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white&labelColor=4EAA25"/>
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=FFD43B"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E"/>
+</p>
+
+### 🗄️ **Databases & Storage**
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=005C84"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=DC382D"/>
+</p>
+
+### 📊 **Monitoring & Analytics**
+<p>
+<img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=E6522C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=005571"/>
+<img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white&labelColor=005571"/>
+</p>
+
+### 🌐 **Web Servers & Networking**
+<p>
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white&labelColor=009639"/>
+<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white&labelColor=D22128"/>
+<img src="https://img.shields.io/badge/HAProxy-106da9?style=for-the-badge&logo=haproxy&logoColor=white&labelColor=106da9"/>
+</p>
+
+### 🔧 **Operating Systems**
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=E95420"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white&labelColor=262577"/>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white&labelColor=EE0000"/>
+</p>
+
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 **Contribution Snake**
-
+<!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DeepDN/DeepDN/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **GitHub Analytics** <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+
+<p align="center">
+<a href="https://github.com/DeepDN">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DeepDN&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DeepDN&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
+</a>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepDN&theme=neon-dark&hide_border=true&stroke=0000&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+</p>
+
 </div>
 
----
-
-## 🎯 **Current Learning Goals**
-
+<!-- Activity Graph -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"/>
+
+### 📈 **Contribution Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepDN&custom_title=Deepak's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area_color=00D4FF&area=true&hide_border=true&theme=react-dark"/>
+
 </div>
 
-- 🔄 **Advanced Kubernetes** orchestration and service mesh
-- 🛡️ **DevSecOps** practices and security automation
-- 📊 **Infrastructure as Code** with Terraform and Ansible
-- ☁️ **Multi-cloud** architecture and deployment strategies
-- 🤖 **AI/ML Operations** and MLOps pipelines
+<!-- Trophies -->
+<div align="center">
 
----
+### 🏆 **GitHub Trophies**
+<img src="https://github-profile-trophy.vercel.app/?username=DeepDN&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7"/>
+
+</div>
+
+<!-- Featured Repositories -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> **Featured Projects** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
-  ### 💫 **"Code is like humor. When you have to explain it, it's bad."**
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-  
-  **Thanks for visiting! Let's build something amazing together! 🚀**
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🚀 Profile Repository</h3>
+<div align="center">  
+<a href="https://github.com/DeepDN/DeepDN">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepDN&repo=DeepDN&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true&icon_color=00D4FF&show_owner=true"/>
+</a>
+</div>
+</td>
+<td width="50%">
+<h3 align="center">💼 Portfolio Website</h3>
+<div align="center">
+<a href="https://portfolio-website-kappa-three-16.vercel.app">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepDN&repo=portfolio-website&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true&icon_color=00D4FF&show_owner=true"/>
+</a>
+</div>
+</td>
+</tr>
+</table>
+</div>
+
+</div>
+
+<!-- Connect Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> **Let's Connect** <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35">
+
+<p align="center">
+<a href="https://linkedin.com/in/deepak-nemade">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+</a>
+<a href="mailto:nemadedeepak1111@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+</a>
+<a href="https://portfolio-website-kappa-three-16.vercel.app/#about">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
+</a>
+<a href="https://hashnode.com/@deepakdn">
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white&labelColor=2962FF"/>
+</a>
+<a href="https://twitter.com/DeepakNemade">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+</a>
+</p>
+
+### 💭 **Random Dev Quote**
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true"/>
+
+### 🎵 **Currently Jamming To**
+<img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=00d4ff" />
+
+</div>
+
+<!-- Snake Animation -->
+<div align="center">
+
+### 🐍 **Watch My Contributions Get Eaten!**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DeepDN/DeepDN/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DeepDN/DeepDN/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DeepDN/DeepDN/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+### ⚡ **"The best way to predict the future is to create it!"** ⚡
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%98%84;Let's+build+something+amazing!;Happy+Coding!+%F0%9F%9A%80;Connect+with+me!+%F0%9F%A4%9D"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+
 </div>
