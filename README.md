@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Deepak%20Nemade%20(DN)&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AWS%20Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=18"/>
 
 <!-- Multi-line Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+AWS+Cloud+%26+DevOps+Engineer;🌐+Network+Architecture+Expert;⚡+CI%2FCD+Pipeline+Specialist;🔧+Infrastructure+Automation+Guru;💡+Problem+Solving+Enthusiast;🎯+Always+Learning+%26+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=2500&pause=500&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+AWS+Cloud+%26+DevOps+Engineer;🌐+Network+%26+System+Administrator;⚡+CI%2FCD+Pipeline+Specialist;🔧+Infrastructure+Automation+Guru;💡+Problem+Solving+Enthusiast;🎯+Always+Learning+%26+Growing!" alt="Typing SVG" />
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -30,9 +30,9 @@
   name: "Deepak Nemade"
   nickname: "DN"
   location: "India 🇮🇳"
-  current_role: "AWS Cloud & DevOps Engineer"
-  company: "CREDEBL"
-  experience: "5+ years"
+  current_role: "Network and System Administrator"
+  company: "Ayanworks Technology Solutions Pvt. Ltd."
+  experience: "4+ years"
   portfolio: "https://portfolio-website-kappa-three-16.vercel.app/"
   
 🎯 Expertise:
@@ -55,7 +55,7 @@
   - "Tech blogger & mentor 📝"
 
 🏆 Profile Repository:
-  description: "This is my GitHub profile README repository showcasing my skills, projects, and professional journey as an AWS Cloud & DevOps Engineer. It features animated elements, comprehensive tech stack, GitHub statistics, and links to my portfolio and projects."
+  description: "This is my GitHub profile README repository showcasing my skills, projects, and professional journey as a Network & System Administrator and AWS Cloud & DevOps Engineer. It features animated elements, comprehensive tech stack, GitHub statistics, and links to my portfolio and projects."
   features: ["Animated README", "GitHub Stats", "Tech Stack", "Project Showcase"]
   purpose: "Professional GitHub Profile Presentation"
 ```
@@ -92,30 +92,6 @@
 </td>
 </tr>
 </table>
-
-</div>
-
-<!-- Portfolio Section -->
-<div align="center">
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> **My Portfolio Website** <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35">
-
-<a href="https://portfolio-website-kappa-three-16.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&logo=vercel"/>
-</a>
-
-**🚀 Professional Portfolio Website**  
-*Showcasing my journey as an AWS Cloud & DevOps Engineer*
-
-**✨ Features:**
-- **Responsive Design** with modern UI/UX
-- **Project Showcase** with detailed case studies  
-- **Skills & Certifications** display
-- **Professional Experience** timeline
-- **Contact & Social Links** integration
-- **Blog & Articles** section
-
-**🛠️ Built With:** React.js, Next.js, Tailwind CSS, Vercel
 
 </div>
 
@@ -252,7 +228,7 @@
 <td width="50%">
 <h3 align="center">💼 Portfolio Website</h3>
 <div align="center">
-<a href="https://github.com/DeepDN/portfolio-website">
+<a href="https://portfolio-website-kappa-three-16.vercel.app/">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DeepDN&repo=portfolio-website&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&hide_border=true&icon_color=00D4FF&show_owner=true"/>
 </a>
 <br><br>
@@ -275,7 +251,7 @@
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 <br>
-<em>Animated GitHub profile README with comprehensive tech stack, statistics, and professional presentation.</em>
+<em>Animated GitHub profile README showcasing skills, projects, and professional journey as a Network & System Administrator and AWS Cloud & DevOps Engineer.</em>
 </div>
 </td>
 <td width="50%">
