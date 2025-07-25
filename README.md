@@ -227,7 +227,7 @@
 <a href="mailto:nemadedeepak1111@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
 </a>
-<a href="https://portfolio-website-kappa-three-16.vercel.app/#about">
+<a href="https://portfolio-website-kappa-three-16.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
 </a>
 <a href="https://hashnode.com/@deepakdn">
