@@ -54,6 +54,48 @@
 
 <br clear="right"/>
 
+<!-- Visitor Tracking Section -->
+<div align="center">
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> **Profile Visitors** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+<p align="center">
+<img src="https://profile-counter.glitch.me/DeepDN/count.svg" alt="Visitor Count" />
+</p>
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://komarev.com/ghpvc/?username=DeepDN&label=Total%20Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/followers/DeepDN?label=Followers&style=flat-square&color=blue&logo=github" alt="GitHub Followers" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/github/stars/DeepDN?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow&logo=github" alt="GitHub Stars" />
+</td>
+</tr>
+</table>
+
+### 👥 **Contributors & Supporters**
+<p align="center">
+<a href="https://github.com/DeepDN/DeepDN/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DeepDN/DeepDN" alt="Contributors" />
+</a>
+</p>
+
+### 👋 **Recent Visitors**
+<p align="center">
+<em>Thank you for visiting my profile! You are visitor number:</em>
+<br>
+<img src="https://profile-counter.glitch.me/DeepDN/count.svg?style=for-the-badge&color=brightgreen" alt="Visitor Badge" />
+</p>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <!-- Current Work Section -->
 <div align="center">
 
